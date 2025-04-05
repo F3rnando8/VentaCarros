@@ -1,0 +1,10 @@
+[
+  { "id": 1, "nombre": "BMW M4 Competition", "precio": 82500, "imagen": "BMW M4 Competition.jpg" },
+  { "id": 2, "nombre": "BMW M5 Competition", "precio": 125000, "imagen": "BMW M5 Competition.jpg" },
+  { "id": 3, "nombre": "BMW M8 Competition Coupé", "precio": 145000, "imagen": "BMW M8 Competition Coupé.jpg" },
+  { "id": 4, "nombre": "BMW M8 Competition Gran Coupé", "precio": 155000, "imagen": "BMW M8 Competition Gran Coupé.jpg" },
+  { "id": 5, "nombre": "Chevrolet Camaro ZL1", "precio": 78000, "imagen": "Chevrolet Camaro ZL1.jpg" },
+  { "id": 6, "nombre": "Chevrolet Corvette C8 Z06", "precio": 115000, "imagen": "Chevrolet Corvette C8 Z06.jpg" },
+  { "id": 7, "nombre": "Ferrari F8 Tributo", "precio": 310000, "imagen": "Ferrari F8 Tributo.jpg" },
+  { "id": 8, "nombre": "Ferrari SF90 Stradale", "precio": 550000, "imagen": "Ferrari SF90 Stradale.jpg" }
+]
